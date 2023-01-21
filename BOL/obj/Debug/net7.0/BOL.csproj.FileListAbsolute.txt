@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\New folder\online feedback\BOL\bin\Debug\net7.0\BOL.deps.json
+C:\Users\Admin\Desktop\New folder\online feedback\BOL\bin\Debug\net7.0\BOL.dll
+C:\Users\Admin\Desktop\New folder\online feedback\BOL\bin\Debug\net7.0\BOL.pdb
+C:\Users\Admin\Desktop\New folder\online feedback\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\online feedback\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder\online feedback\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder\online feedback\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder\online feedback\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\online feedback\BOL\obj\Debug\net7.0\BOL.dll
+C:\Users\Admin\Desktop\New folder\online feedback\BOL\obj\Debug\net7.0\refint\BOL.dll
+C:\Users\Admin\Desktop\New folder\online feedback\BOL\obj\Debug\net7.0\BOL.pdb
+C:\Users\Admin\Desktop\New folder\online feedback\BOL\obj\Debug\net7.0\ref\BOL.dll

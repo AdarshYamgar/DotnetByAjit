@@ -1,0 +1,15 @@
+@using BOL;
+@{
+    List<Student> data1 = (List<Student>)ViewData["Get"]!;
+<div>
+    <ul>
+       @foreach (Student item in data1)
+       {
+        <li>
+          @item.Sid &nbsp;&nbsp; @item.Sname &nbsp;&nbsp; @item.Semail
+        </li>
+       }
+        
+    </ul>
+</div>
+}
